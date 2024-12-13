@@ -1,0 +1,17 @@
+.intro {
+  margin: 0 auto;
+  max-width: 984px;
+}
+
+.intro__title {
+  max-width: 830px;
+}
+.intro__text--top {
+  max-width: 738px;
+}
+.intro__text--middle {
+  max-width: 732px;
+}
+.intro__text--bottom {
+  max-width: 722px;
+}
