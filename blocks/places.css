@@ -36,6 +36,7 @@
 
   grid-area: area1;
   margin: 0;
+  overflow-wrap: anywhere;
 }
 
 .places__image {
@@ -102,6 +103,7 @@
   line-height: 29.34px;
   margin: 0;
   grid-area: area4;
+  align-items: center;
 }
 
 @media screen and (max-width: 768px) {
@@ -154,6 +156,7 @@
     margin: 0;
     grid-area: area4;
     gap: 16px;
+    align-items: center;
   }
   .places__image-item {
     max-width: 320px;

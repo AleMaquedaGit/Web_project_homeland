@@ -1,7 +1,6 @@
 .footer {
   display: flex;
   height: 16px;
-  width: 194px;
 
   justify-content: center;
   box-sizing: border-box;
@@ -11,6 +10,8 @@
 .footer__copyright {
   font-size: 14px;
   line-height: 16px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 @media screen and (max-width: 768px) {
